@@ -1,0 +1,6 @@
+DOCUMENTATION/
+YOLACT/yolact/results/
+YOLACT/yolact/weights/
+YOLACT/yolact/data/
+YOLACT/yolact_env/
+threaded_serv/serv_env/

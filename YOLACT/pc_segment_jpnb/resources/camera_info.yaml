@@ -1,0 +1,15 @@
+  world_transform:
+    x: -0.215
+    y: -0.450
+    z: 0.425
+    roll: 2.839
+    pitch: 1.337
+    yaw: -2.997
+
+  camera_intrinsics:
+    width: 848
+    height: 480
+    focal_x: 635.491
+    focal_y: 635.491
+    center_x: 431.021
+    center_y: 238.404

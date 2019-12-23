@@ -1,0 +1,3 @@
+[submodule "yolact_pcs"]
+	path = yolact_pcs
+	url = https://github.com/lukasld/yolact_pcs
